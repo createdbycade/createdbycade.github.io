@@ -1,0 +1,114 @@
+body {
+    background: rgb(14, 47, 58);
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+h2 {
+    text-align: left;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+}
+h3 {
+    font-size: 18px;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+ul {
+    padding: 10px;
+    background: white;
+  }
+  
+li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+header {
+    text-align: center;
+    background:url("https://upload.wikimedia.org/wikipedia/commons/7/72/Full_moon_in_the_clouds.jpg");
+    background-size:cover;
+    padding: 150px 0px 0px 0px;
+    color: white;
+}
+h1 {
+    font-size: 60px;
+    font-family: 'Lobster', cursive;
+    color: white;
+    padding: 0px 0px 0px 0px;
+}
+#header-pic{ 
+    margin: 40px 0px 0px 0px;
+    border: 5px dashed white;
+    border-radius: 120px;
+}
+p {
+    padding: 30px 0px 0px 30px;
+    font-size: 20px;
+}
+@media (max-width: 500px) {
+    h1 {
+      font-size: 36px;
+      padding: 5px;
+    }
+}
+article {
+    max-width: 800px;
+    padding: 20px;
+    margin: 0 auto;
+}
+#All-About-Me {
+    font-family: 'Lobster', cursive;
+    font-size: 35px;
+    text-align: center;
+}
+
+#images-border {
+    border: 5px solid white;
+    border-radius: 30px;
+}
+.button {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 12px 24px;
+    border: 1px solid #a6d4db;
+    border-radius: 61px;
+    background: #1c3f44;
+    background: -webkit-gradient(linear, left top, left bottom, from(#1c3f44), to(#a6d4db));
+    background: -moz-linear-gradient(top, #1c3f44, #a6d4db);
+    background: linear-gradient(to bottom, #1c3f44, #a6d4db);
+    text-shadow: #591717 1px 1px 1px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:hover,
+.button:focus {
+    border: 1px solid #bff4fc;
+    background: #224c52;
+    background: -webkit-gradient(linear, left top, left bottom, from(#224c52), to(#c7feff));
+    background: -moz-linear-gradient(top, #224c52, #c7feff);
+    background: linear-gradient(to bottom, #224c52, #c7feff);
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:active {
+    background: #112629;
+    background: -webkit-gradient(linear, left top, left bottom, from(#112629), to(#a6d4db));
+    background: -moz-linear-gradient(top, #112629, #a6d4db);
+    background: linear-gradient(to bottom, #112629, #a6d4db);
+}
+.button:before{
+    content:  "\0000a0";
+    display: inline-block;
+    height: 24px;
+    width: 24px;
+    line-height: 24px;
+    margin: 0 4px -6px -4px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABYklEQVRIibXVPUskQRSF4UcRETEQETEyEgMDWcTIQAwMxB9gIIa6iJGIkaGZgX9BQyMjETQWjTZZ2GxFEEz8gDVQZNRxNuhuP5qqsXtkDhQ01XXPe2/d6mqarJYCa3owhsH0Ge5xiT84w0sj8Ekc4BG1yKjiApvoL2rcjd06prHxD3N5s/wW9eEIPz7MXeMXznGHDsmWTaA1F/+KRWyHMm/DiffS9zCF9kilE7gJVPKIoVDAerrgGKMR07xmAoCaZIs/qQdXWE0rKapW/A4AHiS9fNM0xksYf9ROAFBLPd+adIjTiEEn1uoA8o3ONFw0wy5J00OQNvwVrmC9DCA7Wau5d8sR8xrmywKysZLOz6ISMa9goFFAVXKFPNfJfr+oeQjw1XjGSDMBhZvbCGBH/Nh+G7AlcAuUpkX0KvkeGvrxFK2giqVmArIT9LOZgKyShSy4yNX8hI2SSfWjF7cl48rrP7zBwkez3yM9AAAAAElFTkSuQmCC") no-repeat left center transparent;
+    background-size: 100% 100%;
+}
