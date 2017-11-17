@@ -67,6 +67,9 @@ article {
     border: 5px solid white;
     border-radius: 30px;
 }
+#List-of-places {
+    background: rgb(14, 47, 58);
+}
 .button {
     display: inline-block;
     text-align: center;
