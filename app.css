@@ -73,6 +73,7 @@ article {
 #Places-and-why {
     display: list item;
     color: white;
+    font-family: 'Raleway', sans-serif;
 }
 .button {
     display: inline-block;
