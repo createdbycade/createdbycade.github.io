@@ -73,6 +73,7 @@ article {
 #Places-and-why {
     display: list item;
     color: white;
+    list-style-type: value;
 }
 .button {
     display: inline-block;
