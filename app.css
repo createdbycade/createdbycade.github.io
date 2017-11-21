@@ -83,6 +83,13 @@ article {
 #Dash-Projects {
     background: rgb(14, 47, 58);
 }
+p a {
+    color: white ;
+}
+li p a {
+    color: white ;
+}
+
 .button {
     display: inline-block;
     text-align: center;
