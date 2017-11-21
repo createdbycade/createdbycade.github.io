@@ -17,7 +17,7 @@ h3 {
 }
 ul {
     padding: 10px;
-    background: linear-gradient(grey, gold);
+    background: linear-gradient(34, 77, 91, 205, 233, 242, white);
 }
 li {
     display: inline;
