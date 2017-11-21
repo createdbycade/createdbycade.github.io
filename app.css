@@ -83,10 +83,10 @@ article {
 #Dash-Projects {
     background: rgb(14, 47, 58);
 }
-p a {
+a {
     color: white ;
 }
-li p a {
+li a {
     color: white ;
 }
 
