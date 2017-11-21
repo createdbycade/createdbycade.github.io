@@ -17,11 +17,8 @@ h3 {
 }
 ul {
     padding: 10px;
+    background: linear-gradient(blue, pink);
 }
-.simple-linear {
-  background: linear-gradient(blue, pink);
-}
-  
 li {
     display: inline;
     padding: 0px 10px 0px 10px;
