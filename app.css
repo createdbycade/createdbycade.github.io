@@ -17,8 +17,10 @@ h3 {
 }
 ul {
     padding: 10px;
-    background: black;
-  }
+}
+.simple-linear {
+  background: linear-gradient(blue, pink);
+}
   
 li {
     display: inline;
