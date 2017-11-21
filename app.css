@@ -75,6 +75,10 @@ article {
     color: white;
     font-family: 'Raleway', sans-serif;
 }
+#Dash-Project-Links {
+    display: list item;
+    color: white;
+    font-family: 'Raleway', sans-serif;
 .button {
     display: inline-block;
     text-align: center;
