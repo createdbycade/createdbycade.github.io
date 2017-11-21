@@ -17,7 +17,7 @@ h3 {
 }
 ul {
     padding: 10px;
-    background: linear-gradient(rgba(14, 47, 58) 20px, rgba(77, 107, 117) 20px);
+    background: linear-gradient(rgba(14, 47, 58) 10px, rgba(77, 107, 117) 10px, rgba(205, 233, 242) 10px;
 }
 li {
     display: inline;
