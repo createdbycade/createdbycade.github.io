@@ -27,7 +27,7 @@ header {
     text-align: center;
     background:url("images/waves.jpg");
     background-size:cover;
-    padding: 20px 0px 0px 0px;
+    padding: 0px 0px 0px 20px;
     color: white;
 }
 h1 {
