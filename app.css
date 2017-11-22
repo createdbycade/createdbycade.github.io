@@ -27,7 +27,7 @@ header {
     text-align: center;
     background:url("images/sea.jpg");
     background-size:cover;
-    padding: 120px 0px 0px 0px;
+    background-position: bottom;
     color: white;
 }
 h1 {
