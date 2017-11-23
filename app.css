@@ -22,6 +22,7 @@ ul {
 li {
     display: inline;
     padding: 0px 10px 0px 10px;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 header {
     text-align: center;
