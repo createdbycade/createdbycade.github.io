@@ -17,7 +17,7 @@ h3 {
 }
 ul {
     padding: 10px;
-    background: linear-gradient(transparent, rgb(205, 233, 242), transparent);
+    background: linear-gradient(transparent, lightblue, transparent);
 }
 li {
     display: inline;
