@@ -26,8 +26,9 @@ li {
 }
 header {
     text-align: center;
-    background:url("images/water.png");
+    background:url("images/sunset.PNG");
     background-size:cover;
+    background-position: bottom;
     color: white;
 }
 h1 {
